@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SPCategoryKit_Example' do
+  pod 'SPCategoryKit', :path => '../'
+
+  target 'SPCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
