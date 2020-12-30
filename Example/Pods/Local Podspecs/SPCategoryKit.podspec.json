@@ -1,0 +1,22 @@
+{
+  "name": "SPCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of SPCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/solerpan/SPCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "solerpan": "panliang@17shanyuan.com"
+  },
+  "source": {
+    "git": "https://github.com/solerpan/SPCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SPCategoryKit/Classes/**/*"
+}

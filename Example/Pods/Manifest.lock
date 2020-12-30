@@ -1,0 +1,16 @@
+PODS:
+  - SPCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - SPCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  SPCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SPCategoryKit: d6192bca54a36998a879a0a3ecf980c6313aeb42
+
+PODFILE CHECKSUM: 4512272532ec5cb13983b80565249668a5606a02
+
+COCOAPODS: 1.10.0

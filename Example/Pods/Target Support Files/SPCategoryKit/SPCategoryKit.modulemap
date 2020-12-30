@@ -1,0 +1,6 @@
+framework module SPCategoryKit {
+  umbrella header "SPCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
