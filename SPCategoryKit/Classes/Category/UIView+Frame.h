@@ -1,9 +1,7 @@
 //
 //  UIView+Frame.h
-//  WZLCodeLibrary
 //
-//  Created by wzl on 15/3/23.
-//  Copyright (c) 2015年 Weng-Zilin. All rights reserved.
+//  Created by 潘亮 on 2021/3/18.
 //
 
 #import <UIKit/UIKit.h>

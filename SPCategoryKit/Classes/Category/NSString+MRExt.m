@@ -2,8 +2,7 @@
 //  NSString+MRExt.m
 //  TogetherFortune
 //
-//  Created by ChunGuo on 15/12/11.
-//  Copyright © 2016年 huxijun. All rights reserved.
+//  Created by 潘亮 on 2021/3/18.
 //
 
 #import "NSString+MRExt.h"

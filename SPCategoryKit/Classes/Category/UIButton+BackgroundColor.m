@@ -1,9 +1,6 @@
 //
 //  UIButton+BackgroundColor.m
-//  iOS-Categories (https://github.com/shaojiankui/iOS-Categories)
-//
-//  Created by 符现超 on 15/5/9.
-//  Copyright (c) 2015年 http://weibo.com/u/1655766025 All rights reserved.
+//  Created by 潘亮 on 2021/3/18.
 //
 
 #import "UIButton+BackgroundColor.h"

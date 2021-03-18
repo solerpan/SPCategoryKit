@@ -1,9 +1,11 @@
 use_frameworks!
 
+Source 'https://github.com/solerpan/SPCategoryKit.git'
+
 platform :ios, '9.0'
 
 target 'SPCategoryKit_Example' do
-  pod 'SPCategoryKit', :path => '../'
+  pod 'SPCategoryKit'
 
   target 'SPCategoryKit_Tests' do
     inherit! :search_paths

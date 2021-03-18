@@ -1,10 +1,6 @@
 //
 //  UIImage+CT.h
-//  CTIMForiOS
-//
-//  Created by Linst on 16/7/4.
-//  Copyright © 2016年 Mac. All rights reserved.
-//
+//  Created by 潘亮 on 2021/3/18.
 
 #import <UIKit/UIKit.h>
 

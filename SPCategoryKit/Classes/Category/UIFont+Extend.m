@@ -2,8 +2,7 @@
 //  UIFont+Extend.m
 //  Wifi
 //
-//  Created by muxi on 14/12/1.
-//  Copyright (c) 2014年 muxi. All rights reserved.
+//  Created by 潘亮 on 2021/3/18.
 //
 
 #import "UIFont+Extend.h"

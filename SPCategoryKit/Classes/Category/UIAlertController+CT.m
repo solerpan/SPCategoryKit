@@ -2,8 +2,7 @@
 //  UIAlertController+CT.m
 //  CTIMForiOS
 //
-//  Created by Linst on 16/6/30.
-//  Copyright © 2016年 Mac. All rights reserved.
+//  Created by 潘亮 on 2021/3/18.
 //
 
 #import "UIAlertController+CT.h"
